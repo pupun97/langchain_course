@@ -4,3 +4,4 @@ langchain-community
 langchainhub
 python-dotenv
 langchain-ollama
+tavily-python
